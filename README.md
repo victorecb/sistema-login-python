@@ -1,4 +1,3 @@
-# sistema-login-python
 # Sistema de Login em Python
 
 Projeto simples de autenticação com:
